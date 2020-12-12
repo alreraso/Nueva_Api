@@ -3,8 +3,8 @@ const dotenv = require ('dotenv') ;
 
 dotenv.config();
 
-const urlC = `http://vocabulary.vocabulary.172.31.59.214.xip.io/category`;
-const urlW = `http://vocabulary.vocabulary.172.31.59.214.xip.io/words`;
+const urlC = `http://3.237.28.250:3001/category`;
+const urlW = `http://3.237.28.250:3001/words`;
 
 
 const resolvers = {
