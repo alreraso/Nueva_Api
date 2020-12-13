@@ -3,8 +3,8 @@ const dotenv = require ('dotenv') ;
 
 dotenv.config();
 
-const urlC = `http://3.237.28.250:3001/category`;
-const urlW = `http://3.237.28.250:3001/words`;
+const urlC = `http://35.170.73.111:3001/category`;
+const urlW = `http://35.170.73.111:3001/words`;
 
 
 const resolvers = {
